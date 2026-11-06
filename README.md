@@ -70,16 +70,9 @@ An experimental computer vision project exploring depth-aware visual understandi
 
 **Focus:** Computer Vision, YOLO, MiDaS, ResNet and multimodal learning.
 
-### 4. Agentic AI-Based Digital Twin Framework
-**Multi-Hazard Weather Prediction**
-
-Research-oriented work exploring agentic AI and digital twin concepts for multi-hazard weather prediction.
-
-**Focus:** Agentic AI, intelligent systems and predictive modelling.
 
 ## Research & Experience
 
-- **NIT Hamirpur:** Summer internship involving reliability and failure analysis of GANs and Neural Style Transfer.
 - **IIT Mandi:** Research-oriented internship exposure in AI and related technologies.
 
 ## Currently Exploring
